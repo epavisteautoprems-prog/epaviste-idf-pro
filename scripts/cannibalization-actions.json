@@ -1,0 +1,276 @@
+{
+  "generatedAt": "2026-03-26T18:26:26.403Z",
+  "basedOnReport": "scripts/cannibalization-report.json",
+  "summary": {
+    "totalPairs": 24,
+    "high": 0,
+    "medium": 5,
+    "low": 19
+  },
+  "actions": [
+    {
+      "a": "enlevement-epave-weekend-versailles",
+      "b": "epave-weekend-78",
+      "score": 0.721,
+      "titleScore": 0.571,
+      "keywordScore": 1,
+      "priority": "medium",
+      "action": "rewrite_title_keywords",
+      "rationale": "Moderate overlap. Keep both pages but separate query targets more clearly.",
+      "recommendation": "Adjust titles to different long-tail modifiers and reduce shared keyword repetition."
+    },
+    {
+      "a": "enlevement-vs-rachat-95",
+      "b": "epave-urgence-95",
+      "score": 0.659,
+      "titleScore": 0.714,
+      "keywordScore": 0.556,
+      "priority": "medium",
+      "action": "rewrite_title_keywords",
+      "rationale": "Moderate overlap. Keep both pages but separate query targets more clearly.",
+      "recommendation": "Adjust titles to different long-tail modifiers and reduce shared keyword repetition."
+    },
+    {
+      "a": "enlevement-vs-rachat-77",
+      "b": "enlevement-vs-rachat-94",
+      "score": 0.631,
+      "titleScore": 0.5,
+      "keywordScore": 0.875,
+      "priority": "medium",
+      "action": "differentiate_intent_copy",
+      "rationale": "Same template family by department. Keep both URLs but strengthen local differentiation.",
+      "recommendation": "Rewrite intro/H2 with unique city references, add distinct FAQs, and unique internal links per department."
+    },
+    {
+      "a": "non-gage-argenteuil-epave",
+      "b": "non-gage-neuilly-sur-seine",
+      "score": 0.631,
+      "titleScore": 0.5,
+      "keywordScore": 0.875,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "enlevement-vs-rachat-95",
+      "b": "epave-sous-sol-95",
+      "score": 0.616,
+      "titleScore": 0.571,
+      "keywordScore": 0.7,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-91",
+      "b": "epave-sans-carte-grise-93",
+      "score": 0.616,
+      "titleScore": 0.571,
+      "keywordScore": 0.7,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-pontoise",
+      "b": "epave-sans-carte-grise",
+      "score": 0.606,
+      "titleScore": 0.625,
+      "keywordScore": 0.571,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "enlevement-vs-rachat-94",
+      "b": "enlevement-vs-rachat-95",
+      "score": 0.605,
+      "titleScore": 0.571,
+      "keywordScore": 0.667,
+      "priority": "medium",
+      "action": "differentiate_intent_copy",
+      "rationale": "Same template family by department. Keep both URLs but strengthen local differentiation.",
+      "recommendation": "Rewrite intro/H2 with unique city references, add distinct FAQs, and unique internal links per department."
+    },
+    {
+      "a": "epave-sans-carte-grise-77",
+      "b": "epave-sans-carte-grise-montreuil",
+      "score": 0.605,
+      "titleScore": 0.5,
+      "keywordScore": 0.8,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-91",
+      "b": "epave-sans-carte-grise-92",
+      "score": 0.605,
+      "titleScore": 0.571,
+      "keywordScore": 0.667,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-documents-94",
+      "b": "epave-sous-sol-94",
+      "score": 0.6,
+      "titleScore": 0.6,
+      "keywordScore": 0.6,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-91",
+      "b": "epave-sans-carte-grise-montreuil",
+      "score": 0.597,
+      "titleScore": 0.5,
+      "keywordScore": 0.778,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-92",
+      "b": "epave-sans-carte-grise-93",
+      "score": 0.581,
+      "titleScore": 0.571,
+      "keywordScore": 0.6,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-75",
+      "b": "epave-sans-carte-grise-pontoise",
+      "score": 0.575,
+      "titleScore": 0.5,
+      "keywordScore": 0.714,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-controle-technique-que-faire",
+      "b": "epave-sans-ct-aubervilliers",
+      "score": 0.575,
+      "titleScore": 0.5,
+      "keywordScore": 0.714,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-documents-92",
+      "b": "epave-documents-94",
+      "score": 0.566,
+      "titleScore": 0.571,
+      "keywordScore": 0.556,
+      "priority": "medium",
+      "action": "differentiate_intent_copy",
+      "rationale": "Same template family by department. Keep both URLs but strengthen local differentiation.",
+      "recommendation": "Rewrite intro/H2 with unique city references, add distinct FAQs, and unique internal links per department."
+    },
+    {
+      "a": "epave-documents-92",
+      "b": "epave-sans-carte-grise-92",
+      "score": 0.566,
+      "titleScore": 0.571,
+      "keywordScore": 0.556,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-parking-sous-sol-comment-faire",
+      "b": "epave-sous-sol-creteil",
+      "score": 0.566,
+      "titleScore": 0.4,
+      "keywordScore": 0.875,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-75",
+      "b": "epave-sans-carte-grise-91",
+      "score": 0.566,
+      "titleScore": 0.571,
+      "keywordScore": 0.556,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-75",
+      "b": "epave-sans-carte-grise-92",
+      "score": 0.566,
+      "titleScore": 0.571,
+      "keywordScore": 0.556,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "enlevement-vs-rachat-94",
+      "b": "epave-sous-sol-94",
+      "score": 0.565,
+      "titleScore": 0.6,
+      "keywordScore": 0.5,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-77",
+      "b": "epave-sans-carte-grise-92",
+      "score": 0.559,
+      "titleScore": 0.429,
+      "keywordScore": 0.8,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-sans-carte-grise-montreuil",
+      "b": "epave-sans-carte-grise-pontoise",
+      "score": 0.558,
+      "titleScore": 0.5,
+      "keywordScore": 0.667,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    },
+    {
+      "a": "epave-non-gage-75",
+      "b": "non-gage-neuilly-sur-seine",
+      "score": 0.55,
+      "titleScore": 0.375,
+      "keywordScore": 0.875,
+      "priority": "low",
+      "action": "monitor_only",
+      "rationale": "Limited overlap; likely safe to keep both.",
+      "recommendation": "Monitor impressions/clicks for 30 days before changing."
+    }
+  ]
+}

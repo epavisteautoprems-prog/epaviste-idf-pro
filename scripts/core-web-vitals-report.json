@@ -1,0 +1,38 @@
+{
+  "auditedAt": "2026-03-26T18:06:08.144Z",
+  "baseUrl": "https://www.epaviste-idf-pro.fr",
+  "pages": [
+    {
+      "url": "https://www.epaviste-idf-pro.fr/",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/blog",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/blog: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/faq",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/faq: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/rachat-epave",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/rachat-epave: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/enlevement-epave-gratuit",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/enlevement-epave-gratuit: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/epaviste-paris-75",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/epaviste-paris-75: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/epaviste-hauts-de-seine-92",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/epaviste-hauts-de-seine-92: 429"
+    },
+    {
+      "url": "https://www.epaviste-idf-pro.fr/epaviste-val-de-marne-94",
+      "error": "Error: PSI failed for https://www.epaviste-idf-pro.fr/epaviste-val-de-marne-94: 429"
+    }
+  ]
+}
